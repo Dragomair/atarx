@@ -24,6 +24,7 @@ import com.atarx.rs2.content.clanchat.ClanManager;
  * 
  * @author Michael Sasse
  * 
+ * TEST MESSAGE
  */
 public class Server {
 
